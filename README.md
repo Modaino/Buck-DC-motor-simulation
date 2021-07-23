@@ -1,2 +1,3 @@
 # diff
-Dc machine witch buck converter
+
+A simple simulation of the governing equations of a Dc machine witch buck converter.
